@@ -78,7 +78,8 @@ Data collected via the **NewsDataHub API**
 ## Hugging Face
 
 The same dataset is available on Hugging Face:
-[https://huggingface.co/datasets/newsdatahub/openai-vs-anthropic-news-coverage](https://huggingface.co/datasets/newsdatahub/openai-vs-anthropic-news-coverage)
+[https://huggingface.co/datasets/newsdatahub/openai-vs-anthropic-news-coverage](https://huggingface.co/datasets/NewsDataHub/openai-vs-anthropic-news-coverage-6mo-2025-2026)
+
 
 ## Contact
 
