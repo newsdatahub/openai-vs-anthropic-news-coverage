@@ -75,11 +75,12 @@ This repository contains **article metadata only** and links to original sources
 Data collected via the **NewsDataHub API**
 [https://newsdatahub.com](https://newsdatahub.com/?utm_source=github&utm_medium=repo&utm_campaign=openai_vs_anthropic)
 
-## Hugging Face
+## Hugging Face & Kaggle
 
-The same dataset is available on Hugging Face:
+The same dataset is available on **Hugging Face**:
 [https://huggingface.co/datasets/newsdatahub/openai-vs-anthropic-news-coverage](https://huggingface.co/datasets/NewsDataHub/openai-vs-anthropic-news-coverage-6mo-2025-2026)
 
+and **Kaggle**: [https://www.kaggle.com/datasets/olgash270/openai-vs-anthropic-news-coverage-last-6-months](https://www.kaggle.com/datasets/olgash270/openai-vs-anthropic-news-coverage-last-6-months)
 
 ## Contact
 
